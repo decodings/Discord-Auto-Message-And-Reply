@@ -1,11 +1,12 @@
 import discord, asyncio
 
-token = '' # Account's token.
+token = '' # https://www.youtube.com/watch?v=YEgFvgg7ZPI
 reply_message = 'Join discord.gg/ to buy limiteds!' # Message to reply with when somebody DMs the token.
 main_message = 'DM if you want to buy limiteds.' # Message to send in the channel.
 channel_id = 0000000000000000000 # Channel ID to send the message in.
 delay = 300 # In seconds.
-dmed_list = [] # Prevents from DMing the same user twice.
+
+dmed_list = []
 
 class Main(discord.Client):
     async def on_ready(self):
