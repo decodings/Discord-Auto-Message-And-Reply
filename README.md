@@ -10,6 +10,7 @@
 Install discord.py version 1.7.3. (Self-bots are patched in the newest one.)
 
 `pip install -U discord==1.7.3`
+`pip install -U discord.py==1.7.3`
 
 ### Discord:
 void;#5519
