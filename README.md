@@ -1,4 +1,4 @@
-> Works as of September 11, 2022
+> Works as of September 29, 2022
 
 ### Features:
 - [x] Send message every (x) seconds.
@@ -14,4 +14,4 @@ Install discord.py version 1.7.3. (Self-bots are patched in the newest one.)
 `pip install -U discord.py==1.7.3`
 
 ### Discord:
-void;#5519
+Void;#1337
