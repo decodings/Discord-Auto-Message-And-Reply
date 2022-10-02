@@ -1,4 +1,4 @@
-> Works as of September 29, 2022
+> Works as of October 2, 2022
 
 ### Features:
 - [x] Send message every (x) seconds.
