@@ -25,4 +25,5 @@ class Main(discord.Client):
                         with open('blacklist.txt', 'a', encoding = 'UTF-8') as file:
                             file.write('%s\n' % message.author.id)
 
-Main().run(token, bot = False)
+if __name__ == '__main__':
+    Main().run(token, bot = False)
