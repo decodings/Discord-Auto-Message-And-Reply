@@ -1,5 +1,5 @@
-> Works as of October 10, 2022
-
+> Works as of October 13, 2022
+> 
 ### Features:
 - [x] Send message every (x) seconds.
 - [x] Auto reply with a custom message whenever somebody DMs the token.
@@ -12,6 +12,3 @@ Install discord.py version 1.7.3. (Self-bots are patched in the newest one.)
 `pip install -U discord==1.7.3`
 
 `pip install -U discord.py==1.7.3`
-
-### Discord:
-Void;#0277
