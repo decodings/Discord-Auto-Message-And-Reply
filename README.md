@@ -1,5 +1,5 @@
-> Works as of November 1, 2022
-> 
+> Works as of November 10, 2022
+
 ### Features:
 - [x] Send message every (x) seconds.
 - [x] Auto reply with a custom message whenever somebody DMs the token.
